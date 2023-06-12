@@ -4,103 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="829a7251-4f1b-43a8-9e4f-d6adec7d9fcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/CHANGELOG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/NOTICE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/async-http-client-2.12.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/async-http-client-netty-utils-2.12.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/auto-common-1.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/auto-service-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/auto-service-annotations-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/byte-buddy-1.14.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/checker-qual-3.12.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/commons-exec-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/error_prone_annotations-2.11.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/failsafe-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/failureaccess-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/guava-31.1-jre.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/j2objc-annotations-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/jakarta.activation-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/jcommander-1.82.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/jsr305-3.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/jtoml-2.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/netty-buffer-4.1.91.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/netty-codec-4.1.91.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/netty-codec-http-4.1.91.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/netty-codec-socks-4.1.91.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/netty-common-4.1.91.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/netty-handler-4.1.91.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/netty-handler-proxy-4.1.91.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/netty-reactive-streams-2.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/netty-resolver-4.1.91.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/netty-transport-4.1.91.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/netty-transport-classes-epoll-4.1.91.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/netty-transport-classes-kqueue-4.1.91.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/netty-transport-native-epoll-4.1.91.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/netty-transport-native-kqueue-4.1.91.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/netty-transport-native-unix-common-4.1.91.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/opentelemetry-api-1.25.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/opentelemetry-api-events-1.25.0-alpha.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/opentelemetry-api-logs-1.25.0-alpha.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/opentelemetry-context-1.25.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/opentelemetry-exporter-logging-1.25.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/opentelemetry-sdk-1.25.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/opentelemetry-sdk-common-1.25.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/opentelemetry-sdk-extension-autoconfigure-1.25.0-alpha.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.25.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/opentelemetry-sdk-logs-1.25.0-alpha.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/opentelemetry-sdk-metrics-1.25.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/opentelemetry-sdk-trace-1.25.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/opentelemetry-semconv-1.25.0-alpha.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/reactive-streams-1.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/lib/slf4j-api-2.0.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-api-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-api-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-chrome-driver-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-chrome-driver-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-chromium-driver-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-chromium-driver-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-devtools-v111-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-devtools-v111-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-devtools-v112-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-devtools-v112-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-devtools-v113-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-devtools-v113-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-devtools-v85-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-devtools-v85-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-edge-driver-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-edge-driver-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-firefox-driver-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-firefox-driver-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-http-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-http-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-ie-driver-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-ie-driver-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-java-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-java-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-json-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-json-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-manager-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-manager-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-remote-driver-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-remote-driver-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-safari-driver-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-safari-driver-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-support-4.9.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.1/selenium-support-4.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day01_practice/C01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day01_practice/C02.java" afterDir="false" />
-    </list>
+    <list default="true" id="829a7251-4f1b-43a8-9e4f-d6adec7d9fcc" name="Changes" comment="6/12/2023" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,6 +89,14 @@
       <option name="presentableId" value="Default" />
       <updated>1686062703953</updated>
     </task>
+    <task id="LOCAL-00001" summary="6/12/2023">
+      <created>1686592399499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686592399499</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="6/12/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="6/12/2023" />
   </component>
 </project>
